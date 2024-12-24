@@ -16,3 +16,7 @@ The HR Analytics Dashboard built in Power BI provides a comprehensive analysis o
 
 ### Conclusion
 The dashboard also includes a gender breakdown 151 males and 87 females) and presents the data in a visually appealing and easy to understand layout with charts, graphs, and tables It offers HR teams a powerful tool to identify trends, target retention strategies, and optimize workforce management.
+
+### Dashboard Image 
+![HR Analytics Dashboard](https://github.com/Sahil0371/HR_Analytics_Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.png)
+
